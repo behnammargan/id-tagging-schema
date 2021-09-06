@@ -11461,6 +11461,14 @@
             "icon_url": "https://cdn.jsdelivr.net/gh/ideditor/temaki/icons/cable.svg"
         },
         {
+            "key": "twbuilding",
+            "description": "🄿 JPN Building",
+            "object_types": [
+                "area"
+            ],
+            "icon_url": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/home-15.svg"
+        },
+        {
             "key": "tourism",
             "value": "alpine_hut",
             "description": "🄿 Alpine Hut",

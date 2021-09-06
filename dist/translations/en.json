@@ -7244,6 +7244,10 @@
                     "name": "Telecom Exchange",
                     "terms": "telecommunications,telephone exchange,telephone switch"
                 },
+                "ternow/building": {
+                    "name": "JPN Building",
+                    "terms": "structure"
+                },
                 "tourism/alpine_hut": {
                     "name": "Alpine Hut",
                     "terms": "cabin,climbing hut,lodge,lodging,overnight accommodations,wilderness hut"

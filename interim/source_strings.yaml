@@ -8940,6 +8940,11 @@ en:
         name: Telecom Exchange
         # 'terms: telecommunications,telephone exchange,telephone switch'
         terms: '<translate with synonyms or related terms for ''Telecom Exchange'', separated by commas>'
+      ternow/building:
+        # 'twbuilding=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: JPN Building
+        # 'terms: structure'
+        terms: '<translate with synonyms or related terms for ''JPN Building'', separated by commas>'
       tourism:
         # 'tourism=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
         name: Tourism Feature
