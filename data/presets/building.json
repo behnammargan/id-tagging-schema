@@ -1,34 +1,12 @@
 {
     "icon": "maki-home",
-    "fields": [
-        "name",
-        "building",
-        "building/levels",
-        "height",
-        "address"
-    ],
-    "moreFields": [
-        "architect",
-        "building/levels/underground",
-        "building/material",
-        "ele",
-        "gnis/feature_id",
-        "layer",
-        "not/name",
-        "operator",
-        "roof/colour",
-        "smoking",
-        "wheelchair"
-    ],
     "geometry": [
         "area"
     ],
     "tags": {
         "tr_building": "*"
     },
-    "matchScore": 0.6,
     "terms": [
-        "structure"
     ],
     "name": "Building"
 }

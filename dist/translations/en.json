@@ -172,8 +172,7 @@
                     "label": "For Animals"
                 },
                 "architect": {
-                    "label": "Architect",
-                    "terms": "building designer"
+                    "label": "Architect"
                 },
                 "area/highway": {
                     "label": "Type"
@@ -319,7 +318,6 @@
                 },
                 "building/levels/underground": {
                     "label": "Underground Levels",
-                    "terms": "basement levels",
                     "placeholder": "2, 4, 6..."
                 },
                 "building/material": {
@@ -724,8 +722,7 @@
                     "terms": "altitude,height"
                 },
                 "ele": {
-                    "label": "Elevation",
-                    "terms": "altitude,height"
+                    "label": "Elevation"
                 },
                 "electrified": {
                     "label": "Electrification",
@@ -879,8 +876,7 @@
                     "label": "Eruption Height"
                 },
                 "gnis/feature_id": {
-                    "label": "GNIS Feature ID",
-                    "terms": "federal geographic names information service,united states board on geographic names,usa"
+                    "label": "GNIS Feature ID"
                 },
                 "government": {
                     "label": "Type"
@@ -1334,8 +1330,7 @@
                     "label": "Network Type"
                 },
                 "not/name": {
-                    "label": "Incorrect Names",
-                    "terms": "common mistake names,wrong names"
+                    "label": "Incorrect Names"
                 },
                 "note": {
                     "label": "Note",
@@ -2382,7 +2377,6 @@
                 },
                 "wheelchair": {
                     "label": "Wheelchair Access",
-                    "terms": "handicap access",
                     "options": {
                         "yes": "Yes",
                         "limited": "Limited",
@@ -2428,8 +2422,7 @@
                     "terms": "polygon"
                 },
                 "building": {
-                    "name": "Building",
-                    "terms": "structure"
+                    "name": "Building"
                 },
                 "car": {
                     "name": "Car",
