@@ -12,7 +12,7 @@
         "matchScore": 0.1
     },
     "crosswalk": {
-        "icon": "temaki-x_oblique",
+        "icon": "temaki-pedestrian_crosswalk",
         "geometry": [
             "line"
         ],

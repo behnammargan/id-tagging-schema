@@ -23,7 +23,7 @@
             "object_types": [
                 "way"
             ],
-            "icon_url": "https://cdn.jsdelivr.net/gh/ideditor/temaki/icons/x_oblique.svg"
+            "icon_url": "https://cdn.jsdelivr.net/gh/ideditor/temaki/icons/pedestrian_crosswalk.svg"
         },
         {
             "key": "access_aisle",
