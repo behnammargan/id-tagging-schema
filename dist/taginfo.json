@@ -3229,6 +3229,16 @@
             "icon_url": "https://cdn.jsdelivr.net/gh/ideditor/temaki/icons/wall.svg"
         },
         {
+            "key": "trafficlane",
+            "value": "test",
+            "description": "🄿 Behnam",
+            "object_types": [
+                "node",
+                "area"
+            ],
+            "icon_url": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/hospital-15.svg"
+        },
+        {
             "key": "boundary",
             "value": "administrative",
             "description": "🄿 Administrative Boundary",
@@ -11459,16 +11469,6 @@
                 "area"
             ],
             "icon_url": "https://cdn.jsdelivr.net/gh/ideditor/temaki/icons/cable.svg"
-        },
-        {
-            "key": "trafficlane",
-            "value": "test",
-            "description": "🄿 Behnam",
-            "object_types": [
-                "node",
-                "area"
-            ],
-            "icon_url": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/hospital-15.svg"
         },
         {
             "key": "twbuilding",

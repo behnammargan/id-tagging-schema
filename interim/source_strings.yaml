@@ -4610,6 +4610,11 @@ en:
         name: Noise Barrier
         # 'terms: acoustical barrier,noise wall,noisewall,sound barrier,sound berm,sound wall,soundberm,soundwall'
         terms: '<translate with synonyms or related terms for ''Noise Barrier'', separated by commas>'
+      behnam:
+        # 'trafficlane=test\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: Behnam
+        # 'terms: clinic,doctor,disease,health,institution,sick,surgery,wellness'
+        terms: '<translate with synonyms or related terms for ''Behnam'', separated by commas>'
       boundary:
         # 'boundary=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
         name: Boundary
@@ -8940,11 +8945,6 @@ en:
         name: Telecom Exchange
         # 'terms: telecommunications,telephone exchange,telephone switch'
         terms: '<translate with synonyms or related terms for ''Telecom Exchange'', separated by commas>'
-      ternow/behnam:
-        # 'trafficlane=test\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
-        name: Behnam
-        # 'terms: clinic,doctor,disease,health,institution,sick,surgery,wellness'
-        terms: '<translate with synonyms or related terms for ''Behnam'', separated by commas>'
       ternow/building:
         # 'twbuilding=behij\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
         name: JPN Building

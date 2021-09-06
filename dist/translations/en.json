@@ -3819,6 +3819,10 @@
                     "name": "Noise Barrier",
                     "terms": "acoustical barrier,noise wall,noisewall,sound barrier,sound berm,sound wall,soundberm,soundwall"
                 },
+                "behnam": {
+                    "name": "Behnam",
+                    "terms": "clinic,doctor,disease,health,institution,sick,surgery,wellness"
+                },
                 "boundary/administrative": {
                     "name": "Administrative Boundary"
                 },
@@ -7243,10 +7247,6 @@
                 "telecom/exchange": {
                     "name": "Telecom Exchange",
                     "terms": "telecommunications,telephone exchange,telephone switch"
-                },
-                "ternow/behnam": {
-                    "name": "Behnam",
-                    "terms": "clinic,doctor,disease,health,institution,sick,surgery,wellness"
                 },
                 "ternow/building": {
                     "name": "JPN Building",
