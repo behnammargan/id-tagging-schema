@@ -178,6 +178,8 @@ en:
       architect:
         # architect=*
         label: Architect
+        # 'terms: building designer'
+        terms: '[translate with synonyms or related terms for ''Architect'', separated by commas]'
       area/highway:
         # 'area:highway=*'
         label: Type
@@ -330,6 +332,8 @@ en:
         label: Underground Levels
         # building/levels/underground field placeholder
         placeholder: '2, 4, 6...'
+        # 'terms: basement levels'
+        terms: '[translate with synonyms or related terms for ''Underground Levels'', separated by commas]'
       building/levels_building:
         # 'building:levels=*'
         label: Building Levels
@@ -338,6 +342,7 @@ en:
       building/material:
         # 'building:material=*'
         label: Material
+        terms: '[translate with synonyms or related terms for ''Material'', separated by commas]'
       building_area:
         # building=*
         label: Building
@@ -795,6 +800,8 @@ en:
       ele:
         # ele=*
         label: Elevation
+        # 'terms: altitude,height'
+        terms: '[translate with synonyms or related terms for ''Elevation'', separated by commas]'
       ele_node:
         # ele=*
         label: Elevation
@@ -967,6 +974,8 @@ en:
       gnis/feature_id:
         # 'gnis:feature_id=*'
         label: GNIS Feature ID
+        # 'terms: federal geographic names information service,united states board on geographic names,usa'
+        terms: '[translate with synonyms or related terms for ''GNIS Feature ID'', separated by commas]'
       government:
         # government=*
         label: Type
@@ -1216,6 +1225,7 @@ en:
         label: Layer
         # layer field placeholder
         placeholder: '0'
+        terms: '[translate with synonyms or related terms for ''Layer'', separated by commas]'
       leaf_cycle:
         # leaf_cycle=*
         label: Leaf Cycle
@@ -1498,6 +1508,8 @@ en:
       not/name:
         # 'not:name=*'
         label: Incorrect Names
+        # 'terms: common mistake names,wrong names'
+        terms: '[translate with synonyms or related terms for ''Incorrect Names'', separated by commas]'
       note:
         # note=*
         label: Note
@@ -1556,6 +1568,7 @@ en:
       operator:
         # operator=*
         label: Operator
+        terms: '[translate with synonyms or related terms for ''Operator'', separated by commas]'
       operator/type:
         # 'operator:type=*'
         label: Operator Type
@@ -1968,6 +1981,7 @@ en:
       roof/colour:
         # 'roof:colour=*'
         label: Roof Color
+        terms: '[translate with synonyms or related terms for ''Roof Color'', separated by commas]'
       room:
         # room=*
         label: Type
@@ -2243,6 +2257,7 @@ en:
           'yes': Allowed everywhere
         # smoking field placeholder
         placeholder: 'No, Separated, Yes...'
+        terms: '[translate with synonyms or related terms for ''Smoking'', separated by commas]'
       smoothness:
         # smoothness=*
         label: Smoothness
@@ -2778,6 +2793,8 @@ en:
           'no': 'No'
           # wheelchair=yes
           'yes': 'Yes'
+        # 'terms: handicap access'
+        terms: '[translate with synonyms or related terms for ''Wheelchair Access'', separated by commas]'
       wholesale:
         # wholesale=*
         label: Wholesale
@@ -2827,6 +2844,11 @@ en:
         name: Area
         # 'terms: polygon'
         terms: '<translate with synonyms or related terms for ''Area'', separated by commas>'
+      building:
+        # 'building=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: Building
+        # 'terms: structure'
+        terms: '<translate with synonyms or related terms for ''Building'', separated by commas>'
       car:
         # 'tr_car=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
         name: Car
