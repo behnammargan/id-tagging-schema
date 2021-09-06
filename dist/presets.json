@@ -22217,6 +22217,34 @@
             "telecom": "exchange"
         }
     },
+    "ternow/behnam": {
+        "icon": "maki-hospital",
+        "fields": [
+            "name",
+            "phone",
+            "website"
+        ],
+        "moreFields": [
+            "brand",
+            "building/levels_building",
+            "email",
+            "fax",
+            "gnis/feature_id",
+            "height_building",
+            "level",
+            "opening_hours",
+            "opening_hours/covid19",
+            "payment_multi",
+            "wheelchair"
+        ],
+        "geometry": [
+            "point",
+            "area"
+        ],
+        "tags": {
+            "trafficlane": "test"
+        }
+    },
     "ternow/building": {
         "icon": "maki-home",
         "fields": [
@@ -22243,7 +22271,7 @@
             "area"
         ],
         "tags": {
-            "twbuilding": "*"
+            "twbuilding": "behij"
         },
         "matchScore": 0.6
     },
