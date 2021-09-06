@@ -2732,6 +2732,16 @@
             "icon_url": "https://cdn.jsdelivr.net/gh/openstreetmap/iD@develop/svg/fontawesome/fas-weight.svg"
         },
         {
+            "key": "amirabad",
+            "value": "ok",
+            "description": "🄿 Amirabad",
+            "object_types": [
+                "node",
+                "area"
+            ],
+            "icon_url": "https://cdn.jsdelivr.net/gh/openstreetmap/iD@develop/svg/fontawesome/fas-handshake.svg"
+        },
+        {
             "key": "area",
             "value": "yes",
             "description": "🄿 Area",

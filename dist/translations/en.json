@@ -3626,6 +3626,10 @@
                     "name": "Truck Scale",
                     "terms": "weigh station,weighbridge"
                 },
+                "amirabad": {
+                    "name": "Amirabad",
+                    "terms": "social"
+                },
                 "area": {
                     "name": "Area",
                     "terms": "polygon"

@@ -4362,6 +4362,11 @@ en:
         name: Truck Scale
         # 'terms: weigh station,weighbridge'
         terms: '<translate with synonyms or related terms for ''Truck Scale'', separated by commas>'
+      amirabad:
+        # 'amirabad=ok\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: Amirabad
+        # 'terms: social'
+        terms: '<translate with synonyms or related terms for ''Amirabad'', separated by commas>'
       area:
         # 'area=yes\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
         name: Area
