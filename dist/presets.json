@@ -11,13 +11,22 @@
         },
         "matchScore": 0.1
     },
+    "car": {
+        "icon": "temaki-car_pool",
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_car": "*"
+        }
+    },
     "crosswalk": {
         "icon": "temaki-pedestrian_crosswalk",
         "geometry": [
-            "line"
+            "area"
         ],
         "tags": {
-            "crosswalk": "*"
+            "tr_crosswalk": "*"
         }
     },
     "line": {

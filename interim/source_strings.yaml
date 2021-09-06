@@ -2827,8 +2827,13 @@ en:
         name: Area
         # 'terms: polygon'
         terms: '<translate with synonyms or related terms for ''Area'', separated by commas>'
+      car:
+        # 'tr_car=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: Car
+        # 'terms: diamond crossing,flat crossing,level junction,railway railway crossing'
+        terms: '<translate with synonyms or related terms for ''Car'', separated by commas>'
       crosswalk:
-        # 'crosswalk=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        # 'tr_crosswalk=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
         name: Crosswalk
         # 'terms: diamond crossing,flat crossing,level junction,railway railway crossing'
         terms: '<translate with synonyms or related terms for ''Crosswalk'', separated by commas>'

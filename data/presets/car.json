@@ -1,10 +1,10 @@
 {
-    "icon": "temaki-pedestrian_crosswalk",
+    "icon": "temaki-car_pool",
     "geometry": [
         "area"
     ],
     "tags": {
-        "tr_crosswalk": "*"
+        "tr_car": "*"
     },
     "terms": [
         "diamond crossing",
@@ -12,5 +12,5 @@
         "level junction",
         "railway railway crossing"
     ],
-    "name": "Crosswalk"
+    "name": "Car"
 }

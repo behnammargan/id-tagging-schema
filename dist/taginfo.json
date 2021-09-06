@@ -18,10 +18,18 @@
             ]
         },
         {
-            "key": "crosswalk",
+            "key": "tr_car",
+            "description": "🄿 Car",
+            "object_types": [
+                "area"
+            ],
+            "icon_url": "https://cdn.jsdelivr.net/gh/ideditor/temaki/icons/car_pool.svg"
+        },
+        {
+            "key": "tr_crosswalk",
             "description": "🄿 Crosswalk",
             "object_types": [
-                "way"
+                "area"
             ],
             "icon_url": "https://cdn.jsdelivr.net/gh/ideditor/temaki/icons/pedestrian_crosswalk.svg"
         },
