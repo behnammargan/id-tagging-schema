@@ -18,8 +18,8 @@
             ]
         },
         {
-            "key": "building",
-            "description": "🄿 Building, 🄵 Building",
+            "key": "tr_building",
+            "description": "🄿 Building",
             "object_types": [
                 "area"
             ],
@@ -649,6 +649,10 @@
         {
             "key": "bridge:support",
             "description": "🄵 Type"
+        },
+        {
+            "key": "building",
+            "description": "🄵 Building"
         },
         {
             "key": "building:flats",

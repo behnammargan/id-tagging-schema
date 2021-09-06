@@ -37,7 +37,7 @@
             "area"
         ],
         "tags": {
-            "building": "*"
+            "tr_building": "*"
         },
         "matchScore": 0.6
     },

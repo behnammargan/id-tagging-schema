@@ -2845,7 +2845,7 @@ en:
         # 'terms: polygon'
         terms: '<translate with synonyms or related terms for ''Area'', separated by commas>'
       building:
-        # 'building=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        # 'tr_building=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
         name: Building
         # 'terms: structure'
         terms: '<translate with synonyms or related terms for ''Building'', separated by commas>'
