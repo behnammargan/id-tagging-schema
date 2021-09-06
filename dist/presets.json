@@ -6366,7 +6366,8 @@
             "opening_hours",
             "opening_hours/covid19",
             "phone",
-            "website"
+            "website",
+            "colour"
         ],
         "moreFields": [
             "access_simple",
