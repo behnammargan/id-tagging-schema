@@ -19,6 +19,22 @@
             "tr_bike-sign": "*"
         }
     },
+    "bike": {
+        "geometry": [
+            "line"
+        ],
+        "tags": {
+            "tr_bike": "*"
+        }
+    },
+    "building-on-road-sw": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_building-on-road-sw": "*"
+        }
+    },
     "building": {
         "icon": "maki-home",
         "geometry": [
@@ -71,6 +87,23 @@
             "tr_crosswalk": "*"
         }
     },
+    "cyclist": {
+        "geometry": [
+            "vertex",
+            "point"
+        ],
+        "tags": {
+            "tr_cyclist": "*"
+        }
+    },
+    "dash-line": {
+        "geometry": [
+            "line"
+        ],
+        "tags": {
+            "tr_dash-line": "*"
+        }
+    },
     "disabled-sign": {
         "geometry": [
             "area"
@@ -79,12 +112,29 @@
             "tr_disabled-sign": "*"
         }
     },
+    "driving-lane": {
+        "geometry": [
+            "line"
+        ],
+        "tags": {
+            "tr_driving-lane": "*"
+        }
+    },
     "electric-gates-over-railway": {
         "geometry": [
-            "area"
+            "line"
         ],
         "tags": {
             "tr_electric-gates-over-railway": "*"
+        }
+    },
+    "electricity-pole": {
+        "geometry": [
+            "vertex",
+            "point"
+        ],
+        "tags": {
+            "tr_electricity-pole": "*"
         }
     },
     "IN-signal": {
@@ -93,6 +143,14 @@
         ],
         "tags": {
             "tr_IN-signal": "*"
+        }
+    },
+    "lamp": {
+        "geometry": [
+            "line"
+        ],
+        "tags": {
+            "tr_lamp": "*"
         }
     },
     "line": {
@@ -105,12 +163,37 @@
         "tags": {},
         "matchScore": 0.1
     },
+    "long-line": {
+        "geometry": [
+            "line"
+        ],
+        "tags": {
+            "tr_long-line": "*"
+        }
+    },
     "manhole": {
         "geometry": [
             "area"
         ],
         "tags": {
             "tr_manhole": "*"
+        }
+    },
+    "median-strip": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_median-strip": "*"
+        }
+    },
+    "motorcyclist": {
+        "geometry": [
+            "vertex",
+            "point"
+        ],
+        "tags": {
+            "tr_motorcyclist": "*"
         }
     },
     "others": {
@@ -129,6 +212,15 @@
             "tr_OUT-sign": "*"
         }
     },
+    "output": {
+        "geometry": [
+            "vertex",
+            "point"
+        ],
+        "tags": {
+            "tr_output": "*"
+        }
+    },
     "parking-place": {
         "geometry": [
             "area"
@@ -145,6 +237,39 @@
             "tr_parking-space": "*"
         }
     },
+    "parking": {
+        "geometry": [
+            "line"
+        ],
+        "tags": {
+            "tr_parking": "*"
+        }
+    },
+    "pedestrian-tunnel": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_pedestrian-tunnel": "*"
+        }
+    },
+    "person": {
+        "geometry": [
+            "vertex",
+            "point"
+        ],
+        "tags": {
+            "tr_person": "*"
+        }
+    },
+    "planting-box": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_planting-box": "*"
+        }
+    },
     "point": {
         "fields": [
             "name"
@@ -156,12 +281,61 @@
         "tags": {},
         "matchScore": 0.1
     },
+    "rail-way": {
+        "geometry": [
+            "line"
+        ],
+        "tags": {
+            "tr_rail-way": "*"
+        }
+    },
     "restricted-zone": {
         "geometry": [
             "area"
         ],
         "tags": {
             "tr_restricted-zone": "*"
+        }
+    },
+    "road-nonroad": {
+        "geometry": [
+            "line"
+        ],
+        "tags": {
+            "tr_road-nonroad": "*"
+        }
+    },
+    "road-sidewalk": {
+        "geometry": [
+            "line"
+        ],
+        "tags": {
+            "tr_road-sidewalk": "*"
+        }
+    },
+    "sidewalk-nonsidewalk": {
+        "geometry": [
+            "line"
+        ],
+        "tags": {
+            "tr_sidewalk-nonsidewalk": "*"
+        }
+    },
+    "small-traffic-pole": {
+        "geometry": [
+            "vertex",
+            "point"
+        ],
+        "tags": {
+            "tr_small-traffic-pole": "*"
+        }
+    },
+    "specific-area": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_specific-area": "*"
         }
     },
     "speed-sign": {
@@ -172,12 +346,45 @@
             "tr_speed-sign": "*"
         }
     },
+    "stop-line": {
+        "geometry": [
+            "line"
+        ],
+        "tags": {
+            "tr_stop-line": "*"
+        }
+    },
     "stop-sign": {
         "geometry": [
             "area"
         ],
         "tags": {
             "tr_stop-sign": "*"
+        }
+    },
+    "tiny-dash-line": {
+        "geometry": [
+            "line"
+        ],
+        "tags": {
+            "tr_tiny-dash-line": "*"
+        }
+    },
+    "traffic-cone-pole": {
+        "geometry": [
+            "vertex",
+            "point"
+        ],
+        "tags": {
+            "tr_traffic-cone-pole": "*"
+        }
+    },
+    "traffic-lamp-pole": {
+        "geometry": [
+            "line"
+        ],
+        "tags": {
+            "tr_traffic-lamp-pole": "*"
         }
     },
     "traffic-lamp": {
@@ -194,6 +401,14 @@
         ],
         "tags": {
             "tr_traffic-light": "*"
+        }
+    },
+    "traffic-sign": {
+        "geometry": [
+            "line"
+        ],
+        "tags": {
+            "tr_traffic-sign": "*"
         }
     },
     "transporter": {
@@ -258,6 +473,22 @@
         ],
         "tags": {
             "tr_van": "*"
+        }
+    },
+    "vegetation-on-road-sw": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_vegetation-on-road-sw": "*"
+        }
+    },
+    "vehicle-lane": {
+        "geometry": [
+            "line"
+        ],
+        "tags": {
+            "tr_vehicle-lane": "*"
         }
     },
     "wagon": {

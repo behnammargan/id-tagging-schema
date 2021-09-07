@@ -2424,6 +2424,12 @@
                 "bike-sign": {
                     "name": "bike-sign"
                 },
+                "bike": {
+                    "name": "bike"
+                },
+                "building-on-road-sw": {
+                    "name": "building-on-road-sw"
+                },
                 "building": {
                     "name": "Building"
                 },
@@ -2443,21 +2449,45 @@
                 "crosswalk": {
                     "name": "crosswalk"
                 },
+                "cyclist": {
+                    "name": "cyclist"
+                },
+                "dash-line": {
+                    "name": "dash-line"
+                },
                 "disabled-sign": {
                     "name": "disabled-sign"
+                },
+                "driving-lane": {
+                    "name": "driving-lane"
                 },
                 "electric-gates-over-railway": {
                     "name": "electric-gates-over-railway"
                 },
+                "electricity-pole": {
+                    "name": "electricity-pole"
+                },
                 "IN-signal": {
                     "name": "IN-signal"
+                },
+                "lamp": {
+                    "name": "lamp"
                 },
                 "line": {
                     "name": "Line",
                     "terms": "polyline"
                 },
+                "long-line": {
+                    "name": "long-line"
+                },
                 "manhole": {
                     "name": "manhole"
+                },
+                "median-strip": {
+                    "name": "median-strip"
+                },
+                "motorcyclist": {
+                    "name": "motorcyclist"
                 },
                 "others": {
                     "name": "others"
@@ -2465,30 +2495,78 @@
                 "OUT-sign": {
                     "name": "OUT-sign"
                 },
+                "output": {
+                    "name": "output"
+                },
                 "parking-place": {
                     "name": "parking-place"
                 },
                 "parking-space": {
                     "name": "parking-space"
                 },
+                "parking": {
+                    "name": "parking"
+                },
+                "pedestrian-tunnel": {
+                    "name": "pedestrian-tunnel"
+                },
+                "person": {
+                    "name": "person"
+                },
+                "planting-box": {
+                    "name": "planting-box"
+                },
                 "point": {
                     "name": "Point",
                     "terms": "node,other,vertex,vertices"
                 },
+                "rail-way": {
+                    "name": "rail-way"
+                },
                 "restricted-zone": {
                     "name": "restricted-zone"
+                },
+                "road-nonroad": {
+                    "name": "road-nonroad"
+                },
+                "road-sidewalk": {
+                    "name": "road-sidewalk"
+                },
+                "sidewalk-nonsidewalk": {
+                    "name": "sidewalk-nonsidewalk"
+                },
+                "small-traffic-pole": {
+                    "name": "small-traffic-pole"
+                },
+                "specific-area": {
+                    "name": "specific-area"
                 },
                 "speed-sign": {
                     "name": "speed-sign"
                 },
+                "stop-line": {
+                    "name": "stop-line"
+                },
                 "stop-sign": {
                     "name": "stop-sign"
+                },
+                "tiny-dash-line": {
+                    "name": "tiny-dash-line"
+                },
+                "traffic-cone-pole": {
+                    "name": "traffic-cone-pole"
+                },
+                "traffic-lamp-pole": {
+                    "name": "traffic-lamp-pole"
                 },
                 "traffic-lamp": {
                     "name": "traffic-lamp"
                 },
                 "traffic-light": {
                     "name": "traffic-light"
+                },
+                "traffic-sign": {
+                    "name": "traffic-sign"
                 },
                 "transporter": {
                     "name": "transporter"
@@ -2513,6 +2591,12 @@
                 },
                 "van": {
                     "name": "van"
+                },
+                "vegetation-on-road-sw": {
+                    "name": "vegetation-on-road-sw"
+                },
+                "vehicle-lane": {
+                    "name": "vehicle-lane"
                 },
                 "wagon": {
                     "name": "wagon"

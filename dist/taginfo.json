@@ -25,6 +25,20 @@
             ]
         },
         {
+            "key": "tr_bike",
+            "description": "🄿 bike",
+            "object_types": [
+                "way"
+            ]
+        },
+        {
+            "key": "tr_building-on-road-sw",
+            "description": "🄿 building-on-road-sw",
+            "object_types": [
+                "area"
+            ]
+        },
+        {
             "key": "tr_building",
             "description": "🄿 Building",
             "object_types": [
@@ -71,6 +85,20 @@
             "icon_url": "https://cdn.jsdelivr.net/gh/ideditor/temaki/icons/pedestrian_crosswalk.svg"
         },
         {
+            "key": "tr_cyclist",
+            "description": "🄿 cyclist",
+            "object_types": [
+                "node"
+            ]
+        },
+        {
+            "key": "tr_dash-line",
+            "description": "🄿 dash-line",
+            "object_types": [
+                "way"
+            ]
+        },
+        {
             "key": "tr_disabled-sign",
             "description": "🄿 disabled-sign",
             "object_types": [
@@ -78,10 +106,24 @@
             ]
         },
         {
+            "key": "tr_driving-lane",
+            "description": "🄿 driving-lane",
+            "object_types": [
+                "way"
+            ]
+        },
+        {
             "key": "tr_electric-gates-over-railway",
             "description": "🄿 electric-gates-over-railway",
             "object_types": [
-                "area"
+                "way"
+            ]
+        },
+        {
+            "key": "tr_electricity-pole",
+            "description": "🄿 electricity-pole",
+            "object_types": [
+                "node"
             ]
         },
         {
@@ -92,10 +134,38 @@
             ]
         },
         {
+            "key": "tr_lamp",
+            "description": "🄿 lamp",
+            "object_types": [
+                "way"
+            ]
+        },
+        {
+            "key": "tr_long-line",
+            "description": "🄿 long-line",
+            "object_types": [
+                "way"
+            ]
+        },
+        {
             "key": "tr_manhole",
             "description": "🄿 manhole",
             "object_types": [
                 "area"
+            ]
+        },
+        {
+            "key": "tr_median-strip",
+            "description": "🄿 median-strip",
+            "object_types": [
+                "area"
+            ]
+        },
+        {
+            "key": "tr_motorcyclist",
+            "description": "🄿 motorcyclist",
+            "object_types": [
+                "node"
             ]
         },
         {
@@ -113,6 +183,13 @@
             ]
         },
         {
+            "key": "tr_output",
+            "description": "🄿 output",
+            "object_types": [
+                "node"
+            ]
+        },
+        {
             "key": "tr_parking-place",
             "description": "🄿 parking-place",
             "object_types": [
@@ -127,8 +204,78 @@
             ]
         },
         {
+            "key": "tr_parking",
+            "description": "🄿 parking",
+            "object_types": [
+                "way"
+            ]
+        },
+        {
+            "key": "tr_pedestrian-tunnel",
+            "description": "🄿 pedestrian-tunnel",
+            "object_types": [
+                "area"
+            ]
+        },
+        {
+            "key": "tr_person",
+            "description": "🄿 person",
+            "object_types": [
+                "node"
+            ]
+        },
+        {
+            "key": "tr_planting-box",
+            "description": "🄿 planting-box",
+            "object_types": [
+                "area"
+            ]
+        },
+        {
+            "key": "tr_rail-way",
+            "description": "🄿 rail-way",
+            "object_types": [
+                "way"
+            ]
+        },
+        {
             "key": "tr_restricted-zone",
             "description": "🄿 restricted-zone",
+            "object_types": [
+                "area"
+            ]
+        },
+        {
+            "key": "tr_road-nonroad",
+            "description": "🄿 road-nonroad",
+            "object_types": [
+                "way"
+            ]
+        },
+        {
+            "key": "tr_road-sidewalk",
+            "description": "🄿 road-sidewalk",
+            "object_types": [
+                "way"
+            ]
+        },
+        {
+            "key": "tr_sidewalk-nonsidewalk",
+            "description": "🄿 sidewalk-nonsidewalk",
+            "object_types": [
+                "way"
+            ]
+        },
+        {
+            "key": "tr_small-traffic-pole",
+            "description": "🄿 small-traffic-pole",
+            "object_types": [
+                "node"
+            ]
+        },
+        {
+            "key": "tr_specific-area",
+            "description": "🄿 specific-area",
             "object_types": [
                 "area"
             ]
@@ -141,10 +288,38 @@
             ]
         },
         {
+            "key": "tr_stop-line",
+            "description": "🄿 stop-line",
+            "object_types": [
+                "way"
+            ]
+        },
+        {
             "key": "tr_stop-sign",
             "description": "🄿 stop-sign",
             "object_types": [
                 "area"
+            ]
+        },
+        {
+            "key": "tr_tiny-dash-line",
+            "description": "🄿 tiny-dash-line",
+            "object_types": [
+                "way"
+            ]
+        },
+        {
+            "key": "tr_traffic-cone-pole",
+            "description": "🄿 traffic-cone-pole",
+            "object_types": [
+                "node"
+            ]
+        },
+        {
+            "key": "tr_traffic-lamp-pole",
+            "description": "🄿 traffic-lamp-pole",
+            "object_types": [
+                "way"
             ]
         },
         {
@@ -159,6 +334,13 @@
             "description": "🄿 traffic-light",
             "object_types": [
                 "area"
+            ]
+        },
+        {
+            "key": "tr_traffic-sign",
+            "description": "🄿 traffic-sign",
+            "object_types": [
+                "way"
             ]
         },
         {
@@ -215,6 +397,20 @@
             "description": "🄿 van",
             "object_types": [
                 "area"
+            ]
+        },
+        {
+            "key": "tr_vegetation-on-road-sw",
+            "description": "🄿 vegetation-on-road-sw",
+            "object_types": [
+                "area"
+            ]
+        },
+        {
+            "key": "tr_vehicle-lane",
+            "description": "🄿 vehicle-lane",
+            "object_types": [
+                "way"
             ]
         },
         {

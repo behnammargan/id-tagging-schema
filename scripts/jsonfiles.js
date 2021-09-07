@@ -34,6 +34,44 @@ var areas = ['bike-sign',
 'wagon',
 'X-lane']
 
+var areas = ['bike',
+'dash-line',
+'driving-lane',
+'electric-gates-over-railway',
+'lamp',
+'long-line',
+'parking',
+'rail-way',
+'stop-line',
+'tiny-dash-line',
+'traffic-lamp-pole',
+'traffic-sign',
+'vehicle-lane',
+]
+
+var areas = ['road-nonroad',
+'road-sidewalk',
+'sidewalk-nonsidewalk'
+]
+
+
+var areas = ['building-on-road-sw',
+'pedestrian-tunnel',
+'planting-box',
+'specific-area',
+'vegetation-on-road-sw'
+]
+var areas = ['median-strip'
+]
+
+var areas = ['cyclist',
+'electricity-pole',
+'motorcyclist',
+'output',
+'person',
+'small-traffic-pole',
+'traffic-cone-pole'
+]
 var sss = []  
 
 
@@ -43,7 +81,7 @@ for (let index = 0; index < areas.length; index++) {
     // const element = areas[index];
 sss = await `tr_${areas[index]}`;
 
-var dict = await {"geometry" : ["area"],
+var dict = await {"geometry" : ["vertex","point"],
         "tags" : {},
         "terms" : [],
         "name" : areas[index]
