@@ -26,6 +26,14 @@
             "icon_url": "https://cdn.jsdelivr.net/gh/mapbox/maki/icons/home-15.svg"
         },
         {
+            "key": "tr_bus-sign",
+            "description": "🄿 Bus Sign",
+            "object_types": [
+                "area"
+            ],
+            "icon_url": "https://cdn.jsdelivr.net/gh/ideditor/temaki/icons/board_bus.svg"
+        },
+        {
             "key": "tr_car",
             "description": "🄿 Car",
             "object_types": [
@@ -35,7 +43,7 @@
         },
         {
             "key": "tr_crosswalk",
-            "description": "🄿 Crosswalk",
+            "description": "🄿 crosswalk",
             "object_types": [
                 "area"
             ],

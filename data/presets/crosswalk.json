@@ -7,10 +7,6 @@
         "tr_crosswalk": "*"
     },
     "terms": [
-        "diamond crossing",
-        "flat crossing",
-        "level junction",
-        "railway railway crossing"
     ],
-    "name": "Crosswalk"
+    "name": "crosswalk"
 }

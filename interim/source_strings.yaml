@@ -2831,6 +2831,10 @@ en:
         # 'tr_building=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
         name: Building
         terms: '<translate with synonyms or related terms for ''Building'', separated by commas>'
+      bus-sign:
+        # 'tr_bus-sign=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: Bus Sign
+        terms: '<translate with synonyms or related terms for ''Bus Sign'', separated by commas>'
       car:
         # 'tr_car=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
         name: Car
@@ -2838,9 +2842,8 @@ en:
         terms: '<translate with synonyms or related terms for ''Car'', separated by commas>'
       crosswalk:
         # 'tr_crosswalk=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
-        name: Crosswalk
-        # 'terms: diamond crossing,flat crossing,level junction,railway railway crossing'
-        terms: '<translate with synonyms or related terms for ''Crosswalk'', separated by commas>'
+        name: crosswalk
+        terms: '<translate with synonyms or related terms for ''crosswalk'', separated by commas>'
       line:
         name: Line
         # 'terms: polyline'

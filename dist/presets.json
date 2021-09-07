@@ -20,6 +20,15 @@
             "tr_building": "*"
         }
     },
+    "bus-sign": {
+        "icon": "temaki-board_bus",
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_bus-sign": "*"
+        }
+    },
     "car": {
         "icon": "temaki-car_pool",
         "geometry": [

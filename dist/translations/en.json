@@ -2424,13 +2424,15 @@
                 "building": {
                     "name": "Building"
                 },
+                "bus-sign": {
+                    "name": "Bus Sign"
+                },
                 "car": {
                     "name": "Car",
                     "terms": "diamond crossing,flat crossing,level junction,railway railway crossing"
                 },
                 "crosswalk": {
-                    "name": "Crosswalk",
-                    "terms": "diamond crossing,flat crossing,level junction,railway railway crossing"
+                    "name": "crosswalk"
                 },
                 "line": {
                     "name": "Line",
