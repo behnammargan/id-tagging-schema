@@ -2421,26 +2421,104 @@
                     "name": "Area",
                     "terms": "polygon"
                 },
+                "bike-sign": {
+                    "name": "bike-sign"
+                },
                 "building": {
                     "name": "Building"
                 },
                 "bus-sign": {
                     "name": "Bus Sign"
                 },
+                "bus": {
+                    "name": "bus"
+                },
                 "car": {
                     "name": "Car",
                     "terms": "diamond crossing,flat crossing,level junction,railway railway crossing"
                 },
+                "construction-wagon": {
+                    "name": "construction-wagon"
+                },
                 "crosswalk": {
                     "name": "crosswalk"
+                },
+                "disabled-sign": {
+                    "name": "disabled-sign"
+                },
+                "electric-gates-over-railway": {
+                    "name": "electric-gates-over-railway"
+                },
+                "IN-signal": {
+                    "name": "IN-signal"
                 },
                 "line": {
                     "name": "Line",
                     "terms": "polyline"
                 },
+                "manhole": {
+                    "name": "manhole"
+                },
+                "others": {
+                    "name": "others"
+                },
+                "OUT-sign": {
+                    "name": "OUT-sign"
+                },
+                "parking-place": {
+                    "name": "parking-place"
+                },
+                "parking-space": {
+                    "name": "parking-space"
+                },
                 "point": {
                     "name": "Point",
                     "terms": "node,other,vertex,vertices"
+                },
+                "restricted-zone": {
+                    "name": "restricted-zone"
+                },
+                "speed-sign": {
+                    "name": "speed-sign"
+                },
+                "stop-sign": {
+                    "name": "stop-sign"
+                },
+                "traffic-lamp": {
+                    "name": "traffic-lamp"
+                },
+                "traffic-light": {
+                    "name": "traffic-light"
+                },
+                "transporter": {
+                    "name": "transporter"
+                },
+                "truck": {
+                    "name": "truck"
+                },
+                "turn-back-lane": {
+                    "name": "turn-back-lane"
+                },
+                "turn-left": {
+                    "name": "turn-left"
+                },
+                "turn-right": {
+                    "name": "turn-right"
+                },
+                "turn-straight-left": {
+                    "name": "turn-straight-left"
+                },
+                "turn-straight": {
+                    "name": "turn-straight"
+                },
+                "van": {
+                    "name": "van"
+                },
+                "wagon": {
+                    "name": "wagon"
+                },
+                "X-lane": {
+                    "name": "X-lane"
                 }
             }
         }

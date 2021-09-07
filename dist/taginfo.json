@@ -18,6 +18,13 @@
             ]
         },
         {
+            "key": "tr_bike-sign",
+            "description": "🄿 bike-sign",
+            "object_types": [
+                "area"
+            ]
+        },
+        {
             "key": "tr_building",
             "description": "🄿 Building",
             "object_types": [
@@ -34,6 +41,13 @@
             "icon_url": "https://cdn.jsdelivr.net/gh/ideditor/temaki/icons/board_bus.svg"
         },
         {
+            "key": "tr_bus",
+            "description": "🄿 bus",
+            "object_types": [
+                "area"
+            ]
+        },
+        {
             "key": "tr_car",
             "description": "🄿 Car",
             "object_types": [
@@ -42,12 +56,180 @@
             "icon_url": "https://cdn.jsdelivr.net/gh/ideditor/temaki/icons/car_pool.svg"
         },
         {
+            "key": "tr_construction-wagon",
+            "description": "🄿 construction-wagon",
+            "object_types": [
+                "area"
+            ]
+        },
+        {
             "key": "tr_crosswalk",
             "description": "🄿 crosswalk",
             "object_types": [
                 "area"
             ],
             "icon_url": "https://cdn.jsdelivr.net/gh/ideditor/temaki/icons/pedestrian_crosswalk.svg"
+        },
+        {
+            "key": "tr_disabled-sign",
+            "description": "🄿 disabled-sign",
+            "object_types": [
+                "area"
+            ]
+        },
+        {
+            "key": "tr_electric-gates-over-railway",
+            "description": "🄿 electric-gates-over-railway",
+            "object_types": [
+                "area"
+            ]
+        },
+        {
+            "key": "tr_IN-signal",
+            "description": "🄿 IN-signal",
+            "object_types": [
+                "area"
+            ]
+        },
+        {
+            "key": "tr_manhole",
+            "description": "🄿 manhole",
+            "object_types": [
+                "area"
+            ]
+        },
+        {
+            "key": "tr_others",
+            "description": "🄿 others",
+            "object_types": [
+                "area"
+            ]
+        },
+        {
+            "key": "tr_OUT-sign",
+            "description": "🄿 OUT-sign",
+            "object_types": [
+                "area"
+            ]
+        },
+        {
+            "key": "tr_parking-place",
+            "description": "🄿 parking-place",
+            "object_types": [
+                "area"
+            ]
+        },
+        {
+            "key": "tr_parking-space",
+            "description": "🄿 parking-space",
+            "object_types": [
+                "area"
+            ]
+        },
+        {
+            "key": "tr_restricted-zone",
+            "description": "🄿 restricted-zone",
+            "object_types": [
+                "area"
+            ]
+        },
+        {
+            "key": "tr_speed-sign",
+            "description": "🄿 speed-sign",
+            "object_types": [
+                "area"
+            ]
+        },
+        {
+            "key": "tr_stop-sign",
+            "description": "🄿 stop-sign",
+            "object_types": [
+                "area"
+            ]
+        },
+        {
+            "key": "tr_traffic-lamp",
+            "description": "🄿 traffic-lamp",
+            "object_types": [
+                "area"
+            ]
+        },
+        {
+            "key": "tr_traffic-light",
+            "description": "🄿 traffic-light",
+            "object_types": [
+                "area"
+            ]
+        },
+        {
+            "key": "tr_transporter",
+            "description": "🄿 transporter",
+            "object_types": [
+                "area"
+            ]
+        },
+        {
+            "key": "tr_truck",
+            "description": "🄿 truck",
+            "object_types": [
+                "area"
+            ]
+        },
+        {
+            "key": "tr_turn-back-lane",
+            "description": "🄿 turn-back-lane",
+            "object_types": [
+                "area"
+            ]
+        },
+        {
+            "key": "tr_turn-left",
+            "description": "🄿 turn-left",
+            "object_types": [
+                "area"
+            ]
+        },
+        {
+            "key": "tr_turn-right",
+            "description": "🄿 turn-right",
+            "object_types": [
+                "area"
+            ]
+        },
+        {
+            "key": "tr_turn-straight-left",
+            "description": "🄿 turn-straight-left",
+            "object_types": [
+                "area"
+            ]
+        },
+        {
+            "key": "tr_turn-straight",
+            "description": "🄿 turn-straight",
+            "object_types": [
+                "area"
+            ]
+        },
+        {
+            "key": "tr_van",
+            "description": "🄿 van",
+            "object_types": [
+                "area"
+            ]
+        },
+        {
+            "key": "tr_wagon",
+            "description": "🄿 wagon",
+            "object_types": [
+                "area"
+            ]
+        },
+        {
+            "key": "tr_X-lane",
+            "description": "🄿 X-lane",
+            "object_types": [
+                "area"
+            ]
         },
         {
             "key": "access_aisle",

@@ -11,6 +11,14 @@
         },
         "matchScore": 0.1
     },
+    "bike-sign": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_bike-sign": "*"
+        }
+    },
     "building": {
         "icon": "maki-home",
         "geometry": [
@@ -29,6 +37,14 @@
             "tr_bus-sign": "*"
         }
     },
+    "bus": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_bus": "*"
+        }
+    },
     "car": {
         "icon": "temaki-car_pool",
         "geometry": [
@@ -38,6 +54,14 @@
             "tr_car": "*"
         }
     },
+    "construction-wagon": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_construction-wagon": "*"
+        }
+    },
     "crosswalk": {
         "icon": "temaki-pedestrian_crosswalk",
         "geometry": [
@@ -45,6 +69,30 @@
         ],
         "tags": {
             "tr_crosswalk": "*"
+        }
+    },
+    "disabled-sign": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_disabled-sign": "*"
+        }
+    },
+    "electric-gates-over-railway": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_electric-gates-over-railway": "*"
+        }
+    },
+    "IN-signal": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_IN-signal": "*"
         }
     },
     "line": {
@@ -57,6 +105,46 @@
         "tags": {},
         "matchScore": 0.1
     },
+    "manhole": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_manhole": "*"
+        }
+    },
+    "others": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_others": "*"
+        }
+    },
+    "OUT-sign": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_OUT-sign": "*"
+        }
+    },
+    "parking-place": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_parking-place": "*"
+        }
+    },
+    "parking-space": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_parking-space": "*"
+        }
+    },
     "point": {
         "fields": [
             "name"
@@ -67,5 +155,125 @@
         ],
         "tags": {},
         "matchScore": 0.1
+    },
+    "restricted-zone": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_restricted-zone": "*"
+        }
+    },
+    "speed-sign": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_speed-sign": "*"
+        }
+    },
+    "stop-sign": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_stop-sign": "*"
+        }
+    },
+    "traffic-lamp": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_traffic-lamp": "*"
+        }
+    },
+    "traffic-light": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_traffic-light": "*"
+        }
+    },
+    "transporter": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_transporter": "*"
+        }
+    },
+    "truck": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_truck": "*"
+        }
+    },
+    "turn-back-lane": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_turn-back-lane": "*"
+        }
+    },
+    "turn-left": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_turn-left": "*"
+        }
+    },
+    "turn-right": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_turn-right": "*"
+        }
+    },
+    "turn-straight-left": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_turn-straight-left": "*"
+        }
+    },
+    "turn-straight": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_turn-straight": "*"
+        }
+    },
+    "van": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_van": "*"
+        }
+    },
+    "wagon": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_wagon": "*"
+        }
+    },
+    "X-lane": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "tr_X-lane": "*"
+        }
     }
 }

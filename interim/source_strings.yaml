@@ -2822,15 +2822,35 @@ en:
           # 'windings:configuration=zigzag'
           zigzag: Zig Zag
     presets:
+      IN-signal:
+        # 'tr_IN-signal=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: IN-signal
+        terms: '<translate with synonyms or related terms for ''IN-signal'', separated by commas>'
+      OUT-sign:
+        # 'tr_OUT-sign=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: OUT-sign
+        terms: '<translate with synonyms or related terms for ''OUT-sign'', separated by commas>'
+      X-lane:
+        # 'tr_X-lane=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: X-lane
+        terms: '<translate with synonyms or related terms for ''X-lane'', separated by commas>'
       area:
         # 'area=yes\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
         name: Area
         # 'terms: polygon'
         terms: '<translate with synonyms or related terms for ''Area'', separated by commas>'
+      bike-sign:
+        # 'tr_bike-sign=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: bike-sign
+        terms: '<translate with synonyms or related terms for ''bike-sign'', separated by commas>'
       building:
         # 'tr_building=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
         name: Building
         terms: '<translate with synonyms or related terms for ''Building'', separated by commas>'
+      bus:
+        # 'tr_bus=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: bus
+        terms: '<translate with synonyms or related terms for ''bus'', separated by commas>'
       bus-sign:
         # 'tr_bus-sign=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
         name: Bus Sign
@@ -2840,15 +2860,99 @@ en:
         name: Car
         # 'terms: diamond crossing,flat crossing,level junction,railway railway crossing'
         terms: '<translate with synonyms or related terms for ''Car'', separated by commas>'
+      construction-wagon:
+        # 'tr_construction-wagon=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: construction-wagon
+        terms: '<translate with synonyms or related terms for ''construction-wagon'', separated by commas>'
       crosswalk:
         # 'tr_crosswalk=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
         name: crosswalk
         terms: '<translate with synonyms or related terms for ''crosswalk'', separated by commas>'
+      disabled-sign:
+        # 'tr_disabled-sign=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: disabled-sign
+        terms: '<translate with synonyms or related terms for ''disabled-sign'', separated by commas>'
+      electric-gates-over-railway:
+        # 'tr_electric-gates-over-railway=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: electric-gates-over-railway
+        terms: '<translate with synonyms or related terms for ''electric-gates-over-railway'', separated by commas>'
       line:
         name: Line
         # 'terms: polyline'
         terms: '<translate with synonyms or related terms for ''Line'', separated by commas>'
+      manhole:
+        # 'tr_manhole=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: manhole
+        terms: '<translate with synonyms or related terms for ''manhole'', separated by commas>'
+      others:
+        # 'tr_others=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: others
+        terms: '<translate with synonyms or related terms for ''others'', separated by commas>'
+      parking-place:
+        # 'tr_parking-place=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: parking-place
+        terms: '<translate with synonyms or related terms for ''parking-place'', separated by commas>'
+      parking-space:
+        # 'tr_parking-space=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: parking-space
+        terms: '<translate with synonyms or related terms for ''parking-space'', separated by commas>'
       point:
         name: Point
         # 'terms: node,other,vertex,vertices'
         terms: '<translate with synonyms or related terms for ''Point'', separated by commas>'
+      restricted-zone:
+        # 'tr_restricted-zone=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: restricted-zone
+        terms: '<translate with synonyms or related terms for ''restricted-zone'', separated by commas>'
+      speed-sign:
+        # 'tr_speed-sign=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: speed-sign
+        terms: '<translate with synonyms or related terms for ''speed-sign'', separated by commas>'
+      stop-sign:
+        # 'tr_stop-sign=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: stop-sign
+        terms: '<translate with synonyms or related terms for ''stop-sign'', separated by commas>'
+      traffic-lamp:
+        # 'tr_traffic-lamp=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: traffic-lamp
+        terms: '<translate with synonyms or related terms for ''traffic-lamp'', separated by commas>'
+      traffic-light:
+        # 'tr_traffic-light=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: traffic-light
+        terms: '<translate with synonyms or related terms for ''traffic-light'', separated by commas>'
+      transporter:
+        # 'tr_transporter=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: transporter
+        terms: '<translate with synonyms or related terms for ''transporter'', separated by commas>'
+      truck:
+        # 'tr_truck=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: truck
+        terms: '<translate with synonyms or related terms for ''truck'', separated by commas>'
+      turn-back-lane:
+        # 'tr_turn-back-lane=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: turn-back-lane
+        terms: '<translate with synonyms or related terms for ''turn-back-lane'', separated by commas>'
+      turn-left:
+        # 'tr_turn-left=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: turn-left
+        terms: '<translate with synonyms or related terms for ''turn-left'', separated by commas>'
+      turn-right:
+        # 'tr_turn-right=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: turn-right
+        terms: '<translate with synonyms or related terms for ''turn-right'', separated by commas>'
+      turn-straight:
+        # 'tr_turn-straight=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: turn-straight
+        terms: '<translate with synonyms or related terms for ''turn-straight'', separated by commas>'
+      turn-straight-left:
+        # 'tr_turn-straight-left=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: turn-straight-left
+        terms: '<translate with synonyms or related terms for ''turn-straight-left'', separated by commas>'
+      van:
+        # 'tr_van=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: van
+        terms: '<translate with synonyms or related terms for ''van'', separated by commas>'
+      wagon:
+        # 'tr_wagon=*\n\nTranslate the primary name. Optionally, add equivalent synonyms on newlines in order of preference (press the Return key).'
+        name: wagon
+        terms: '<translate with synonyms or related terms for ''wagon'', separated by commas>'
